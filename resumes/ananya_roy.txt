@@ -1,0 +1,32 @@
+Name: Ananya Roy
+Email: ananya.roy@email.com
+
+SUMMARY
+ML Research Engineer with expertise in Python, machine learning, and cloud-based AI deployments. Published researcher in NLP domain.
+
+SKILLS
+- Python, C++
+- TensorFlow, PyTorch, scikit-learn, Hugging Face Transformers
+- NLP, Computer Vision, Reinforcement Learning
+- pandas, numpy, matplotlib, scipy
+- Feature engineering, model evaluation, A/B testing
+- Flask, FastAPI, Docker, Kubernetes
+- AWS, Azure, GCP
+- SQL, PostgreSQL, MongoDB
+- Git, GitHub, MLflow, DVC
+
+EXPERIENCE
+ML Research Engineer - Research Lab (2020-2024)
+- Led development of large language model fine-tuning pipeline
+- Implemented and evaluated machine learning models for NLP tasks
+- Deployed AI models using Docker and Kubernetes on AWS
+- Worked with cross-functional teams on AI product development
+- Mentored junior engineers and interns
+
+EDUCATION
+M.S. Machine Learning - Stanford (2020)
+
+PROJECTS
+- Fine-tuned GPT model for domain-specific QA
+- Real-time object detection using YOLO and OpenCV
+- MLOps pipeline with MLflow and DVC

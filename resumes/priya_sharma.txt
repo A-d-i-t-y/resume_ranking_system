@@ -1,0 +1,30 @@
+Name: Priya Sharma
+Email: priya.sharma@email.com
+
+SUMMARY
+Passionate Python Developer with 2 years of experience in Machine Learning and AI. Skilled in building NLP pipelines and deploying models.
+
+SKILLS
+- Python, pandas, numpy, scikit-learn, TensorFlow, PyTorch
+- Natural Language Processing, Text Classification, Sentiment Analysis
+- Machine Learning: supervised and unsupervised learning
+- REST APIs using Flask and FastAPI
+- SQL, MongoDB
+- Git, GitHub, Docker
+- AWS (S3, EC2, SageMaker)
+
+EXPERIENCE
+ML Engineer - TechCorp (2022-2024)
+- Built NLP models for text classification achieving 92% accuracy
+- Developed data preprocessing pipelines using pandas and numpy
+- Deployed machine learning models as REST APIs using Flask
+- Performed feature engineering and model evaluation
+- Worked with large datasets and SQL databases
+
+EDUCATION
+B.Tech Computer Science - IIT Delhi (2022)
+
+PROJECTS
+- Resume Parser using spaCy and Python
+- Sentiment Analysis using BERT and PyTorch
+- Data visualization dashboard using matplotlib and plotly

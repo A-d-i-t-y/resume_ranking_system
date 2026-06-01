@@ -1,0 +1,25 @@
+Name: Rahul Gupta
+Email: rahul.gupta@email.com
+
+SUMMARY
+Fresh graduate with strong fundamentals in Python and machine learning. Eager to learn and grow in AI/ML domain.
+
+SKILLS
+- Python programming
+- Basic Machine Learning concepts
+- numpy, pandas
+- SQL basics
+- Git
+
+EXPERIENCE
+Intern - DataTech (2024)
+- Assisted in data preprocessing tasks using Python
+- Wrote Python scripts for data analysis
+- Learned about machine learning algorithms
+
+EDUCATION
+B.Sc Computer Science - Delhi University (2024)
+
+PROJECTS
+- Python-based student grade predictor using linear regression
+- Simple data analysis using pandas

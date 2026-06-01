@@ -1,0 +1,33 @@
+Name: Sneha Patel
+Email: sneha.patel@email.com
+
+SUMMARY
+Data Scientist with 3 years of experience in Python, deep learning, and NLP. Proficient in deploying AI solutions on cloud platforms.
+
+SKILLS
+- Python, R, Scala
+- TensorFlow, PyTorch, Keras, scikit-learn
+- NLP: spaCy, NLTK, Transformers, BERT
+- pandas, numpy, matplotlib, seaborn, plotly
+- Deep Learning, Neural Networks, CNN, RNN, LSTM
+- Feature Engineering, Model Evaluation, Hyperparameter Tuning
+- REST APIs, Flask, FastAPI, Docker
+- AWS (SageMaker, S3, Lambda), GCP (Vertex AI)
+- SQL, MongoDB, Redis
+- Git, GitHub, CI/CD pipelines
+
+EXPERIENCE
+Data Scientist - AI Solutions Ltd (2021-2024)
+- Built and deployed NLP models including text classification and named entity recognition
+- Developed deep learning models using TensorFlow and PyTorch
+- Designed data preprocessing pipelines and feature engineering workflows
+- Deployed machine learning models on AWS SageMaker
+- Worked closely with cross-functional teams on AI projects
+
+EDUCATION
+M.Tech AI - IIT Bombay (2021)
+
+PROJECTS
+- Transformer-based chatbot using PyTorch
+- Fraud detection system using ensemble ML models
+- Real-time data pipeline using Apache Kafka and Python

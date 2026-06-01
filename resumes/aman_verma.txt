@@ -1,0 +1,29 @@
+Name: Aman Verma
+Email: aman.verma@email.com
+
+SUMMARY
+Software developer with strong Python skills and growing interest in AI and machine learning. Experienced in building web applications and APIs.
+
+SKILLS
+- Python, JavaScript, React
+- scikit-learn, pandas, numpy
+- Machine Learning basics
+- Flask, Django, FastAPI
+- REST APIs, SQL, PostgreSQL
+- Git, GitHub
+- Basic knowledge of TensorFlow
+
+EXPERIENCE
+Software Developer - Startup XYZ (2023-2024)
+- Developed REST APIs using Flask and Python
+- Implemented basic machine learning features
+- Worked with SQL databases and data analysis using pandas
+- Version control with Git and GitHub
+
+EDUCATION
+B.Tech Information Technology - NIT (2023)
+
+PROJECTS
+- ML-based recommendation system using scikit-learn
+- Data analysis project using pandas and matplotlib
+- Web application with Flask and PostgreSQL

@@ -1,0 +1,25 @@
+Name: Vikram Singh
+Email: vikram.singh@email.com
+
+SUMMARY
+Web developer transitioning into data science. Has good frontend skills but limited Python and ML experience.
+
+SKILLS
+- HTML, CSS, JavaScript, React, Node.js
+- Basic Python scripting
+- SQL basics
+- Git, GitHub
+
+EXPERIENCE
+Frontend Developer - WebAgency (2022-2024)
+- Built responsive web applications using React
+- Developed REST APIs using Node.js
+- Worked with SQL databases for basic CRUD operations
+
+EDUCATION
+B.Tech CSE - Private University (2022)
+
+PROJECTS
+- Portfolio website with React
+- E-commerce application with Node.js
+- Basic Python scripts for automation

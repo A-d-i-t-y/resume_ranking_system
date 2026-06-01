@@ -1,0 +1,24 @@
+Job Title: Python Developer - AI/ML Engineer
+
+We are looking for a skilled Python Developer with experience in Machine Learning and Artificial Intelligence.
+
+Requirements:
+- Strong proficiency in Python programming
+- Experience with machine learning frameworks such as TensorFlow, PyTorch, or scikit-learn
+- Knowledge of Natural Language Processing (NLP) techniques
+- Familiarity with data preprocessing, feature engineering, and model evaluation
+- Experience with pandas, numpy, and matplotlib for data analysis
+- Understanding of deep learning concepts and neural networks
+- Ability to work with REST APIs and Flask/FastAPI
+- Version control using Git and GitHub
+- Strong problem-solving and analytical skills
+- Experience with SQL and NoSQL databases
+- Knowledge of cloud platforms (AWS, GCP, or Azure) is a plus
+
+Responsibilities:
+- Develop and deploy machine learning models
+- Build and maintain data pipelines
+- Collaborate with cross-functional teams
+- Write clean, well-documented Python code
+- Perform data analysis and visualization
+- Optimize model performance and accuracy
