@@ -97,4 +97,4 @@ similarity(A, B) = (A · B) / (||A|| × ||B||)
 
 ---
 
-Built for **CampusPull AI Intern Assessment 2025**
+
